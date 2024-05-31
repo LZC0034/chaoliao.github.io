@@ -1,12 +1,13 @@
-# Postdoctoral researcher 
+# Chao Liao 
 
 ### Education
-Microbiology, PhD
+Food Science/Microbiology, Ph.D., UC Davis 2016-2022
 
 ### Work Experience
-Postdoctoral researcher @ Princeton University 
-- big impact project 1!
-- big impact project 2!
+Postdoctoral researcher at Princeton University 2023-now
 
-- ### Projects
-  
+### Projects
+- Plant-microbes interactions
+- Plant genomics
+- Machine learning in microbiomes
+- Microbes-mirobes interactions  
