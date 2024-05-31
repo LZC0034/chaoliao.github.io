@@ -1,4 +1,4 @@
-### Bio
+### About
 Hi, my name is Chao Liao. I am a researcher interested in exploring functions of microbes in impacting their host phenotypes.     
 
 ### Education
