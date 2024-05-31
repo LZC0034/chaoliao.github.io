@@ -1,5 +1,3 @@
-# Chao Liao 
-
 ### Education
 Food Science/Microbiology, Ph.D., UC Davis 2022
 
